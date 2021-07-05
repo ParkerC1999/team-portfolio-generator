@@ -11,7 +11,7 @@ module.exports = createPage => {
         <title>Team Portfolio</title>
     </head>
     <body>
-        ${name}
+        ${role}
     </body>
     </html>
     `

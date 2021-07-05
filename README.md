@@ -6,6 +6,7 @@ The purpose of this application is to take in user input to generate a porfolio 
 
 ## Built with:
 * Javascript
+* Node.js
 * Inquierer
 * Jest
 
@@ -16,6 +17,8 @@ Made by Parker
 * Incoporate finished employee docs into index
 * Finish tests
 * Finish template
+* Finish prompts
+* Make video link
 
 ## Screenshot:
 
